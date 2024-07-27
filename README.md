@@ -21,7 +21,7 @@ Bu repo, çeşitli akıllı ev sistemi projelerinin kodlarını ve çizimlerini 
 ## Kurulum
 * **Donanım:**
     * Arduino Uno (veya benzeri bir kart)
-    * ... (Projeye özel diğer donanımlar)
+    * (Projeye özel diğer donanımlar)
 * **Yazılım:**
     * Arduino IDE
     * Fritzing (devre şemalarını görüntülemek için)
@@ -31,5 +31,5 @@ Bu repo, çeşitli akıllı ev sistemi projelerinin kodlarını ve çizimlerini 
 2. Kodlama dizinindeki ilgili .ino dosyasını açın.
 3. Arduino kartınızı bilgisayara bağlayın.
 4. Kodları yükleyin.
-5. ... (Projeye özel kullanım adımları)
+5. (Projeye özel kullanım adımları)
 
