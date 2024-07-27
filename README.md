@@ -2,6 +2,11 @@
 
 Bu repo, çeşitli akıllı ev sistemi projelerinin kodlarını ve çizimlerini içermektedir. Arduino platformu ve Fritzing gibi araçlar kullanılarak geliştirilmiştir.
 
+<div align="center">
+  <img  src="https://github.com/TKN-YZM/Advanced-Robotic-Projects/blob/main/pic.jpg" alt="Proje Çizim">
+</div>
+
+
 ## Dosya Yapısı
 * **kodlama:** Tüm Arduino kodları bu dizinde bulunur.
     * AkilliEvSistemleriKodlama.ino: Ana proje kodu.
